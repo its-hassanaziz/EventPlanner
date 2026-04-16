@@ -1,0 +1,24 @@
+# Visual Studio generated files
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# User-specific files
+*.user
+*.suo
+
+# Build outputs
+x64/
+Debug/
+Release/
+Event Planner/x64/
+
+# Intermediate and binary artifacts
+*.obj
+*.ilk
+*.pdb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.recipe
+*.exe
